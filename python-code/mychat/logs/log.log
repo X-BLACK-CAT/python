@@ -1,0 +1,4 @@
+[D 190308 11:12:02 selector_events:64] Using selector: SelectSelector
+[I 190308 11:12:04 web:2162] 304 GET / (127.0.0.1) 2.00ms
+[I 190308 11:12:20 web:2162] 304 GET / (127.0.0.1) 2.00ms
+[W 190308 11:12:46 web:2162] 404 GET /jjb (127.0.0.1) 5.01ms
